@@ -1,8 +1,8 @@
 # Summary
 
-<img align="right" src="https://github.com/l3x/trybechatter/blob/master/trybe-chatter-components.png">
-
 Nested components in React.js help us create more complex view element structures and decided to build a React.jl demo app based on composition of UI components.
+
+<img align="right" src="https://github.com/l3x/trybechatter/blob/master/trybe-chatter-components.png">
 
 ## Installation
 
