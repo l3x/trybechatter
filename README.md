@@ -20,10 +20,10 @@ App
 Install npm.  See https://www.npmjs.com/get-npm
 
 ```
-git clone https://github.com/l3x/trybechatter.git
+git clone https://github.com/l3x/trybechatter.git && cd trybechatter
+npm install --global webpack; webpack
 npm i
-webpack
-npm i serve -g
+npm i serve -g 
 serve
 ```
 
