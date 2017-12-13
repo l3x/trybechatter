@@ -2,10 +2,18 @@
 
 <img align="right" src="https://github.com/l3x/trybechatter/blob/master/trybe-chatter-components.png">
 
-<hr/>
+Nested components in React.js help us create more complex view element structures and decided to build a React.js demo app based on composition of UI components.
 
+Here’s the component hierarchy:
 
-Nested components in React.js help us create more complex view element structures and decided to build a React.jl demo app based on composition of UI components.
+```
+App
++ RoomList
+  + Room
++ RoomForm
++ MessageList
+  + Message
+```
 
 ## Installation
 
